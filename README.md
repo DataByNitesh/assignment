@@ -77,7 +77,7 @@ This project simulates a financial dashboard where users can track their income,
 
 ```bash
 git clone https://github.com/DataByNitesh/assignment.git
-cd <project-folder>
+cd assignment
 npm install
 npm run dev
 ```
